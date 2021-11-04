@@ -14,9 +14,13 @@
         <module>future-fork-join-vip-course08</module>
         <module>ScheduledThreadPoolExecutor-vip-course09</module>
     </modules>
+	<properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
 
-	<groupId>com.it.edu</groupId>
-	<artifactId>java-juc</artifactId>
+    <groupId>com.it.edu</groupId>
+	<artifactId>java-vip-course</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>java-juc</name>
 	<description>java-juc</description>

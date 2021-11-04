@@ -12,7 +12,7 @@ import java.util.concurrent.Executors;
  */
 public class ArrayBlockingQueueTest {
     /**
-     * 创建容量大小为1的有界队列
+     * 创建容量大小为1的有界队列  ArrayBlockingQueue数组 不可扩容
      */
     private BlockingQueue<Ball> blockingQueue = new ArrayBlockingQueue<Ball>(1);
 
