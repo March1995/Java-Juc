@@ -20,7 +20,7 @@
 	</properties>
 
     <groupId>com.it.edu</groupId>
-	<artifactId>java-vip-course</artifactId>
+	<artifactId>java-juc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>java-juc</name>
 	<description>java-juc</description>
