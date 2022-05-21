@@ -7,7 +7,7 @@ public class Biaslock {
     public static Vector<Integer> vector = new Vector<Integer>();
 
     /**
-     * 默认开启偏向锁
+     * 默认开启偏向锁  性能大概提升10%
      * 开启偏向锁：-XX:+UseBiasedLocking -XX:BiasedLockingStartupDelay=0
      * 关闭偏向锁：-XX:-UseBiasedLocking
      * @param args
