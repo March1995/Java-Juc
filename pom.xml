@@ -4,15 +4,15 @@
 	<modelVersion>4.0.0</modelVersion>
 	<packaging>pom</packaging>
 	<modules>
-		<module>JMM-volatile-vip-course01</module>
-        <module>synchronized-Lock-AQS-vip-course02</module>
-        <module>juc-tools-vip-course03</module>
-        <module>Atomic-Unsafe-vip-course04</module>
-        <module>collection-Queue-vip-course05</module>
-        <module>Executor-vip-course06</module>
-        <module>ThreadPoolExecutor-vip-course07</module>
-        <module>future-fork-join-vip-course08</module>
-        <module>ScheduledThreadPoolExecutor-vip-course09</module>
+		<module>01-JMM-Volatile</module>
+        <module>02-Synchronized-Lock-AQS</module>
+        <module>03-Juc-Tools</module>
+        <module>04-Atomic-Unsafe</module>
+        <module>05-Collection-Queue</module>
+        <module>06-Executor</module>
+        <module>07-ThreadPoolExecutor</module>
+        <module>08-Future-Fork-Join</module>
+        <module>09-ScheduledThreadPoolExecutor</module>
     </modules>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
@@ -20,10 +20,10 @@
 	</properties>
 
     <groupId>com.it.edu</groupId>
-	<artifactId>java-juc</artifactId>
+	<artifactId>Java-Juc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>java-juc</name>
-	<description>java-juc</description>
+	<name>Java-Juc</name>
+	<description>Java-Juc</description>
 
 	<dependencies>
 		<dependency>

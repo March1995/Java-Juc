@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <groupId>com.it.edu</groupId>
-        <artifactId>java-juc</artifactId>
+        <artifactId>Java-Juc</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>JMM-volatile-vip-course01</artifactId>
+    <artifactId>01-JMM-Volatile</artifactId>
 
     <build>
         <plugins>
